@@ -3,7 +3,12 @@ zaici newbranch
 我在第二ge
 我在第一
 <<<<<<< HEAD
+<<<<<<< HEAD
 wozaidi一
 =======
 wozai dier
 >>>>>>> c70aaf2cc152388279b34a434e9c85000b656eb8
+=======
+wozai dier
+wo来了第二
+>>>>>>> 8ebd0bc2af16e6e3d6ff756c2d5c04561e967ccb
