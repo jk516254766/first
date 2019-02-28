@@ -2,4 +2,8 @@ new branch
 zaici newbranch
 我在第二ge
 我在第一
+<<<<<<< HEAD
 wozaidi一
+=======
+wozai dier
+>>>>>>> c70aaf2cc152388279b34a434e9c85000b656eb8
